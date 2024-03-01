@@ -40,6 +40,3 @@ Con SNMP, un administrador puede cambiar la configuración de un dispositivo de 
 
 Los agentes SNMP pueden enviar trampas (TRAP) a los gestores cuando se produce un evento importante, como un fallo en un dispositivo o una interfaz inactiva. Los gestores pueden recibir estas notificaciones y tomar medidas apropiadas, como enviar alertas al personal de red.
 
-## Conclusión
-
-El Protocolo SNMP es una herramienta poderosa para la gestión de redes, que permite a los administradores supervisar, controlar y diagnosticar dispositivos de red de manera eficiente. Al comprender los componentes y parámetros del SNMP, los administradores pueden utilizar esta tecnología para mantener sus redes seguras y eficientes.
