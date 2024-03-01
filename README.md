@@ -1,4 +1,3 @@
-```markdown
 # Protocolo SNMP: Simple Network Management Protocol
 
 El Protocolo SNMP (Simple Network Management Protocol) es un protocolo estándar de la industria para la gestión de dispositivos de red. Permite a los administradores
@@ -44,6 +43,3 @@ Los agentes SNMP pueden enviar trampas (TRAP) a los gestores cuando se produce u
 ## Conclusión
 
 El Protocolo SNMP es una herramienta poderosa para la gestión de redes, que permite a los administradores supervisar, controlar y diagnosticar dispositivos de red de manera eficiente. Al comprender los componentes y parámetros del SNMP, los administradores pueden utilizar esta tecnología para mantener sus redes seguras y eficientes.
-```
-
-Este markdown proporciona una introducción básica al Protocolo SNMP, explicando sus componentes, parámetros y ejemplos de uso común en la gestión de redes.
