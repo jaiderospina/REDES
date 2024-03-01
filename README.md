@@ -1,7 +1,8 @@
 ```markdown
 # Protocolo SNMP: Simple Network Management Protocol
 
-El Protocolo SNMP (Simple Network Management Protocol) es un protocolo estándar de la industria para la gestión de dispositivos de red. Permite a los administradores supervisar y controlar dispositivos de red, como routers, switches, servidores y dispositivos IoT, desde una ubicación centralizada.
+El Protocolo SNMP (Simple Network Management Protocol) es un protocolo estándar de la industria para la gestión de dispositivos de red. Permite a los administradores
+supervisar y controlar dispositivos de red, como routers, switches, servidores y dispositivos IoT, desde una ubicación centralizada.
 
 ## Componentes del Protocolo SNMP
 
@@ -9,9 +10,12 @@ El SNMP consta de tres componentes principales:
 
 1. **Agentes SNMP**: Son programas que se ejecutan en los dispositivos de red y recopilan información sobre el estado y la actividad del dispositivo.
 
-2. **MIB (Management Information Base)**: Es una base de datos jerárquica que almacena información sobre los parámetros y estados de los dispositivos de red. Define la estructura de los datos que se pueden consultar o modificar mediante SNMP.
+2. **MIB (Management Information Base)**: Es una base de datos jerárquica que almacena información sobre los parámetros y estados de los dispositivos de red. Define
 
-3. **Gestor SNMP**: Es una aplicación de software que se utiliza para gestionar y supervisar dispositivos de red. Envía solicitudes de información (GET) o instrucciones de configuración (SET) a los agentes SNMP para recopilar datos o realizar cambios en los dispositivos.
+la estructura de los datos que se pueden consultar o modificar mediante SNMP.
+
+3.  **Gestor SNMP**:
+Es una aplicación de software que se utiliza para gestionar y supervisar dispositivos de red. Envía solicitudes de información (GET) o instrucciones de configuración (SET) a los agentes SNMP para recopilar datos o realizar cambios en los dispositivos.
 
 ## Parámetros del Protocolo SNMP
 
