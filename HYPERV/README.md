@@ -1,3 +1,5 @@
+##  Tipo de Redes en Hyper-v
+
 En Hyper-V, existen tres tipos principales de switches virtuales que puedes crear para conectar las máquinas virtuales (VMs) con diferentes redes, cada uno con funcionalidades y características específicas. A continuación, te explico el funcionamiento de cada tipo:
 
 ### 1. **Switch Externo (External Switch)**
