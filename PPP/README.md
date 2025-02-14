@@ -48,10 +48,3 @@ El Protocolo Punto a Punto (PPP, por sus siglas en inglés: Point-to-Point Proto
 
 **En resumen,** PPP es un protocolo fundamental para establecer conexiones punto a punto en redes WAN. Su flexibilidad y capacidad de adaptación lo han convertido en una elección popular para diversas aplicaciones. Sin embargo, es importante considerar sus limitaciones y evaluar si es la mejor opción para una aplicación específica.
 
-**¿Te gustaría saber más sobre algún aspecto específico de PPP, como su configuración en diferentes sistemas operativos o su comparación con otros protocolos?**
-
-[Image of PPP connection diagram]
-
-**Nota:** La imagen de PPP connection diagram es una representación visual simplificada y puede variar según la implementación específica.
-
-**Palabras clave:** PPP, protocolo punto a punto, redes WAN, LCP, NCP, IPCP, encapsulación, conexión, configuración, seguridad.
